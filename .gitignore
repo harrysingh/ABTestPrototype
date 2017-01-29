@@ -26,4 +26,5 @@ DerivedData/*
 #
 Pods/
 
+.DS_Store
 *.lock
